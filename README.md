@@ -1,6 +1,6 @@
 # uasmobileapp
 
-A new Flutter project.
+A new Flutter project. This project is made for Mobile Application Final Exam Course.
 
 ## Getting Started
 
